@@ -1,0 +1,9 @@
+The NFL is a billion-dollar league. To quote the movie "Concussion" starring Will Smith, the league "practically owns a day of the week."
+
+Currently, there are a few major players in the NFL broadcasting: CBS, FOX, NBC, ESPN, ABC, and most recently, some streaming services such as Amazon, Netflix, and Peacock.
+
+Commentating is a crucial task for the NFL to engage fans and provide a better experience.  The goal of commentating is to provide a clear and engaging narrative of the game.  The commentator is responsible for providing a play-by-play of the game, as well as providing insights and analysis of the game.  \
+The NFL, a for-profit organization, is a profit-maximizing firm.  Do the commentators play a role in the engagement of fans and therefore, profit?  If so, how can we use data to optimize the commentating?
+My uncle, Brandon Cruse, is a referee for the NFL. Sometimes, he reminds me how much the game changes every year - the rules, the plays, the fans' expectations.  With fans at the forefront of the NFL's strategy, the league chagnes rules almost every year to keep the game exciting and engaging.  I'm interested in how the commentating changes to keep up with the game.
+Commentary is just as important.  In this project, I'm interested in how we can use data to optimize the commentating.  I'm also interested in how we can use data to optimize the commentating.  How has it changed over time, if at all?  How can we use data to predict the commentating style of a given commentator?
+
