@@ -1,6 +1,8 @@
 The NFL is a billion-dollar league. To quote the movie "Concussion" starring Will Smith, the league "practically owns a day of the week."
 
 Currently, there are a few major players in the NFL broadcasting: CBS, FOX, NBC, ESPN, ABC, and most recently, some streaming services such as Amazon, Netflix, and Peacock.
+Why do these streaming services pay millions of dollars to host these telecasts? After acquiring the rights to certain games, bidding wars occurs for the 'top notch' brocasters.
+These broadcasters then must be important? Really? How can we quantify? What makes their broadcasts so different? They merely discuss the exact thing which every watcher can already see with their own eyes.
 
 Commentating is a crucial task for the NFL to engage fans and provide a better experience.  The goal of commentating is to provide a clear and engaging narrative of the game.  The commentator is responsible for providing a play-by-play of the game, as well as providing insights and analysis of the game.  \
 The NFL, a for-profit organization, is a profit-maximizing firm.  Do the commentators play a role in the engagement of fans and therefore, profit?  If so, how can we use data to optimize the commentating?
