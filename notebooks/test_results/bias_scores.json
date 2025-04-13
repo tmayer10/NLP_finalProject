@@ -1,0 +1,52 @@
+{
+    "overall_stats": {
+        "total_games_analyzed": 1216,
+        "average_home_bias": 0.5102873885709989,
+        "average_away_bias": 0.40749504913477913,
+        "average_neutral_score": 0.08221756171061363
+    },
+    "top_teams_bias": {
+        "north_carolina": 1.0605440735816956,
+        "mississippi_state": 0.999485045671463,
+        "boston_college": 0.9903904745976131,
+        "syracuse": 0.9855504738433021,
+        "kansas_state": 0.9762404759724934,
+        "clemson": 0.9602383102689471,
+        "oregon_state": 0.9588502496480942,
+        "maryland": 0.9585756063461304,
+        "baltimore_ravens": 0.9568989892159738,
+        "virginia": 0.9558446943759918
+    },
+    "broadcaster_bias": {
+        "ABC": {
+            "home_bias": 0.5133556342986693,
+            "away_bias": 0.40349718739828433,
+            "neutral_score": 0.08314718316163285,
+            "games_analyzed": 166
+        },
+        "CBS": {
+            "home_bias": 0.5057106520059897,
+            "away_bias": 0.4122951566153153,
+            "neutral_score": 0.08199419159824631,
+            "games_analyzed": 263
+        },
+        "ESPN": {
+            "home_bias": 0.5153844568981631,
+            "away_bias": 0.40525830126078966,
+            "neutral_score": 0.07935723844887478,
+            "games_analyzed": 397
+        },
+        "FOX": {
+            "home_bias": 0.5063220929239214,
+            "away_bias": 0.4077434490636452,
+            "neutral_score": 0.08593445727633651,
+            "games_analyzed": 291
+        },
+        "NBC": {
+            "home_bias": 0.5085168616338209,
+            "away_bias": 0.40968617345347547,
+            "neutral_score": 0.08179696478100136,
+            "games_analyzed": 99
+        }
+    }
+}

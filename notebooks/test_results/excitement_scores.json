@@ -1,0 +1,27 @@
+{
+    "ABC": {
+        "average_score": 0.22475592167372718,
+        "std_score": 0.006906284431615405,
+        "num_broadcasts": 166
+    },
+    "CBS": {
+        "average_score": 0.22032719345161567,
+        "std_score": 0.007804110623480045,
+        "num_broadcasts": 263
+    },
+    "NBC": {
+        "average_score": 0.22286900044254207,
+        "std_score": 0.007527370767418951,
+        "num_broadcasts": 99
+    },
+    "FOX": {
+        "average_score": 0.2214574886944925,
+        "std_score": 0.007675323600359529,
+        "num_broadcasts": 291
+    },
+    "ESPN": {
+        "average_score": 0.22351862995585123,
+        "std_score": 0.006462314909059374,
+        "num_broadcasts": 397
+    }
+}

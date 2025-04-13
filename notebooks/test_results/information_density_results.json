@@ -1,0 +1,32 @@
+{
+    "ABC": {
+        "average_entity_density": 0.06100127536588542,
+        "average_unique_entities": 477.13253012048193,
+        "average_entity_count": 1375.0602409638554,
+        "num_broadcasts": 166
+    },
+    "CBS": {
+        "average_entity_density": 0.0576654688228622,
+        "average_unique_entities": 443.4486692015209,
+        "average_entity_count": 1280.7148288973383,
+        "num_broadcasts": 263
+    },
+    "ESPN": {
+        "average_entity_density": 0.055306715076756136,
+        "average_unique_entities": 482.911838790932,
+        "average_entity_count": 1410.6901763224182,
+        "num_broadcasts": 397
+    },
+    "FOX": {
+        "average_entity_density": 0.05281441578566777,
+        "average_unique_entities": 423.9106529209622,
+        "average_entity_count": 1231.1924398625429,
+        "num_broadcasts": 291
+    },
+    "NBC": {
+        "average_entity_density": 0.059777288041654615,
+        "average_unique_entities": 500.47474747474746,
+        "average_entity_count": 1326.2626262626263,
+        "num_broadcasts": 99
+    }
+}

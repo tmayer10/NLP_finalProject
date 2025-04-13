@@ -1,9 +1,0 @@
-# Ignore all CSV and model files
-*.csv
-*.pkl
-*.h5
-*.zip
-*.tar.gz
-
-# Ignore a specific large file
-dataset/
