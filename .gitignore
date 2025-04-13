@@ -8,4 +8,4 @@
 
 # Ignore a specific large file
 dataset/
-.venv/
+.venv/.venv/
